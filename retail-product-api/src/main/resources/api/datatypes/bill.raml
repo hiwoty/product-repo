@@ -1,0 +1,32 @@
+#%RAML 1.0 Library
+usage:
+types:
+  create-bill:
+    description: create bill pload type
+    properties:
+      id :
+        description:  bill id
+        type : integer
+        required: true
+        example: 9800
+        
+      noOfItems: 
+           description: number of items
+           type: integer
+           required: true
+           example: 5
+      totalCost:
+           description: total cost
+           type : integer
+           required: false
+           example: 12356
+      totalTax : 
+          description: total tax
+          type : number
+          required: false
+          example: 550.50
+      totalValue : 
+           description: total value of product 
+           type : integer
+           required: true
+           example: 2000

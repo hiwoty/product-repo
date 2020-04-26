@@ -1,0 +1,7 @@
+ {
+            "id": 100,
+            "name": "cell phone",
+            "barcode": "123567890",
+            "rate" : 550.50,
+            "productCategory" : "electonics"
+  }

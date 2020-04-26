@@ -1,0 +1,21 @@
+
+       [
+                {
+                "id" : 100,
+                "name" : "tv",
+                "barcode" : "1234567890",
+                "rate" : 1000.00,
+                "productCategory" : "electonics"
+
+              },
+              {
+              "id" : 200,
+                "name" : "Refrigrator",
+                "barcode" : "1222345678",
+                "rate" : 500.00,
+                "productCategory" : "electonics"
+              }
+ ]
+
+  
+  
